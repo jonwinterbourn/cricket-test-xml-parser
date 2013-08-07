@@ -1,0 +1,773 @@
+<courses type="array">
+  <course>
+    <id type="integer">7</id>
+    <name>Computer Science BSc</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/compsci_bsc</url>
+    <course-type nil="true"/>
+    <subject>Computer Science</subject>
+    <description>During this course you will learn about all kinds of computational systems, their theory, design, development and application. This includes programming languages, software engineering, artificial intelligence, operating systems, databases, nature-inspired computation, concurrent computing, robotics and the theory of computation. </description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-03-26T22:08:27Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:11:57Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code></KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>G400</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>A*AA - AAB</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>50</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>76</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>561</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/compsci_bsc</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BSc</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/bsc</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Computer Science BSc</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>During this course you will learn about all kinds of computational systems, their theory, design, development and application. This includes programming languages, software engineering, artificial intelligence, operating systems, databases, nature-inspired computation, concurrent computing, robotics and the theory of computation. </summary>
+    <curriculum>
+      <id type="integer">67</id>
+      <course-id type="integer">7</course-id>
+      <course-version-id type="integer">84</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:11:57Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:11:57Z</updated-at>
+      <versioned-course-id type="integer">7</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">17</id>
+    <name>Economics BSc</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/economics_bsc</url>
+    <course-type nil="true"/>
+    <subject>Economics</subject>
+    <description>The current financial crisis, the impact of climate change on the economy, trade agreements, income tax… leaders and policy makers the world over understand the world around us better with the insights of economics. Economists have the analytical skills to tackle the complexities of the modern world and this is exactly what the Birmingham degree programme prepares you to do.
+Our BSc Economics degree course will give you excellent training – in theory and practice – for tackling a wide range of relevant problems facing society as well as the world economy.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-06-03T14:45:19Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:05:29Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0160</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>L100</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>AAA</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>56</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>198</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>1566</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/economics_bsc</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BSc Single Honours</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/bsc</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Economics BSc</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>The current financial crisis, the impact of climate change on the economy, trade agreements, income tax… leaders and policy makers the world over understand the world around us better with the insights of economics. Economists have the analytical skills to tackle the complexities of the modern world and this is exactly what the Birmingham degree programme prepares you to do.
+
+Our BSc Economics degree course will give you excellent training – in theory and practice – for tackling a wide range of relevant problems facing society as well as the world economy.</summary>
+    <curriculum>
+      <id type="integer">64</id>
+      <course-id type="integer">17</course-id>
+      <course-version-id type="integer">81</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:05:29Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:05:29Z</updated-at>
+      <versioned-course-id type="integer">17</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">8</id>
+    <name>English BA</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/english_ba</url>
+    <course-type nil="true"/>
+    <subject>English Literature</subject>
+    <description>As an English undergraduate on our prestigious BA course, you will develop expertise in analysing literary texts across the whole range of English literature, from medieval to modern</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-03-27T09:54:50Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:48:18Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>98567</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>Q300</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>AAB</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>51</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>102</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>564</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/english_ba</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BA</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/ba</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>English BA</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>As an English undergraduate on our prestigious BA course, you will develop expertise in analysing literary texts across the whole range of English literature, from medieval to modern</summary>
+    <curriculum>
+      <id type="integer">74</id>
+      <course-id type="integer">8</course-id>
+      <course-version-id type="integer">91</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:48:18Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:48:18Z</updated-at>
+      <versioned-course-id type="integer">8</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">13</id>
+    <name>French Studies BA</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/french_ba</url>
+    <course-type nil="true"/>
+    <subject>French</subject>
+    <description>French Studies at Birmingham will give you the opportunity to study many different aspects of French language and culture. We put an emphasis on small group teaching and encourage student participation. We produce confident, articulate graduates who are enthused by their subject and who benefit from excellent possibilities for employment in the UK and EU.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-05-14T21:30:47Z</created-at>
+    <updated-at type="datetime">2013-06-02T16:08:06Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0047</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/french_ba</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BA</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/ba</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>French Studies BA</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>French Studies at Birmingham will give you the opportunity to study many different aspects of French language and culture. We put an emphasis on small group teaching and encourage student participation. We produce confident, articulate graduates who are enthused by their subject and who benefit from excellent possibilities for employment in the UK and EU.</summary>
+    <curriculum>
+      <id type="integer">49</id>
+      <course-id type="integer">13</course-id>
+      <course-version-id type="integer">66</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-02T16:08:06Z</created-at>
+      <updated-at type="datetime">2013-06-02T16:08:06Z</updated-at>
+      <versioned-course-id type="integer">13</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">19</id>
+    <name>Mathematical Economics and Statistics BSc</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/mes_bsc</url>
+    <course-type nil="true"/>
+    <subject>Economics</subject>
+    <description>The current financial crisis, the impact of climate change on the economy, trade agreements, income tax… leaders and policy makers the world over understand the world around us better with the insights of economics. Economists have the analytical skills to tackle the complexities of the modern world and this is exactly what the Birmingham degree programme prepares you to do. </description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-06-03T17:53:48Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:08:15Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0189</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>LG13</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>AAA</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>54</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>198</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>1566</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/mes_bsc</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BSc Single Honours</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/bsc</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Mathematical Economics and Statistics BSc</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>The current financial crisis, the impact of climate change on the economy, trade agreements, income tax… leaders and policy makers the world over understand the world around us better with the insights of economics. Economists have the analytical skills to tackle the complexities of the modern world and this is exactly what the Birmingham degree programme prepares you to do.</summary>
+    <curriculum>
+      <id type="integer">65</id>
+      <course-id type="integer">19</course-id>
+      <course-version-id type="integer">82</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:08:15Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:08:15Z</updated-at>
+      <versioned-course-id type="integer">19</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">6</id>
+    <name>Mechanical Engineering (Automotive) BEng</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/automotive_bsc</url>
+    <course-type nil="true"/>
+    <subject>Mechanical Engineering</subject>
+    <description>Mechanical Engineering is a professional discipline as important as medicine - for which it supplies many solutions in terms of life saving equipment, life enhancing artificial limbs, pacemakers, micro-scale pumps, incubators, etc. Mechanical Engineers design, analyse and manufacture machines that move using gears: giant earth moving machines, huge turbines in power stations, all types of road and rail vehicles and space rockets and satellites. We design tiny micro gears that power medical equipment, handheld computers and mobile 'phones. We also make industrial robots; the machines that make other products.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-03-26T22:02:30Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:29:57Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code></KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>H302</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>AAB</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>55</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>55</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>479</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/automotive_bsc</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BSc</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/bsc</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Mechanical Engineering (Automotive) BEng</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>Mechanical Engineering is a professional discipline as important as medicine - for which it supplies many solutions in terms of life saving equipment, life enhancing artificial limbs, pacemakers, micro-scale pumps, incubators, etc.</summary>
+    <curriculum>
+      <id type="integer">69</id>
+      <course-id type="integer">6</course-id>
+      <course-version-id type="integer">86</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:29:57Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:29:57Z</updated-at>
+      <versioned-course-id type="integer">6</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">16</id>
+    <name>Medical Science BMedSc</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/medical_science_bmedsc</url>
+    <course-type nil="true"/>
+    <subject>Medicine</subject>
+    <description>Medical Science is all about the scientific basis of medicine. From the major body systems right down to the molecular level, you’ll learn about the workings of the human body and explore the limits of our understanding of what causes so many of the diseases that affect humankind. You’ll be taught by experts in the field who are actively carrying out medical research in these areas, and you’ll find out how this research translates into advances in clinical practice.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-06-03T09:26:55Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:31:48Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0406</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>B900</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>AAB / ABB</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>53</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>97</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>637</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/medical_science_bmedsc</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BMedSc</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/bmedsc</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Medical Science BMedSc</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>Medical Science is all about the scientific basis of medicine. From the major body systems right down to the molecular level, you’ll learn about the workings of the human body and explore the limits of our understanding of what causes so many of the diseases that affect humankind. You’ll be taught by experts in the field who are actively carrying out medical research in these areas, and you’ll find out how this research translates into advances in clinical practice.</summary>
+    <curriculum>
+      <id type="integer">70</id>
+      <course-id type="integer">16</course-id>
+      <course-version-id type="integer">87</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:31:48Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:31:48Z</updated-at>
+      <versioned-course-id type="integer">16</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">15</id>
+    <name>Medicine and Surgery MBChB</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/medicine_surgery_mbchb</url>
+    <course-type nil="true"/>
+    <subject>Medicine</subject>
+    <description>Studying Medicine &amp; Surgery at Birmingham is a first-class opportunity to develop the skills you need to become a medical practitioner. In 2012, the results of the National Student Survey (NSS) showed that 91% of our students were satisfied with the quality of this programme. Right from the start, you’ll experience the practice of healthcare in the community with a fortnightly attachment to a general practice, allowing you to see how your studies translate into clinical practice.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-06-02T16:40:35Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:34:06Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0137</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>A100</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>5</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>A*AA</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>60</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>345</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>1820</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/medicine_surgery_mbchb</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>MBChB</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/mbchb</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Medicine and Surgery MBChB</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>Studying Medicine &amp; Surgery at Birmingham is a first-class opportunity to develop the skills you need to become a medical practitioner. In 2012, the results of the National Student Survey (NSS) showed that 91% of our students were satisfied with the quality of this programme. Right from the start, you’ll experience the practice of healthcare in the community with a fortnightly attachment to a general practice, allowing you to see how your studies translate into clinical practice.</summary>
+    <curriculum>
+      <id type="integer">71</id>
+      <course-id type="integer">15</course-id>
+      <course-version-id type="integer">88</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:34:07Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:34:07Z</updated-at>
+      <versioned-course-id type="integer">15</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">18</id>
+    <name>Money, Banking and Finance BSc</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/money_bsc</url>
+    <course-type nil="true"/>
+    <subject>Economics</subject>
+    <description>This programme combines the analytical rigour of an economics degree with practical focus on banking, accounting, law and finance. It is designed to provide you with the intellectual skills to work in the financial services sector and should further enable you to gain exemptions from relevant professional examinations such as the ICAEW.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-06-03T14:50:43Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:10:02Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0142</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>N300</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>AAA</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>52</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>35</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>172</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/money_bsc</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BSc Single Honours</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/bsc</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Money, Banking and Finance BSc</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>This programme combines the analytical rigour of an economics degree with practical focus on banking, accounting, law and finance. It is designed to provide you with the intellectual skills to work in the financial services sector and should further enable you to gain exemptions from relevant professional examinations such as the ICAEW.</summary>
+    <curriculum>
+      <id type="integer">66</id>
+      <course-id type="integer">18</course-id>
+      <course-version-id type="integer">83</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:10:03Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:10:03Z</updated-at>
+      <versioned-course-id type="integer">18</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">5</id>
+    <name>Philosophy BA</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/philosophy_ba</url>
+    <course-type nil="true"/>
+    <subject>Philosophy</subject>
+    <description>On this degree programme you’ll meet the great minds of history on equal terms, not just learning what they thought, but engaging with them critically. Philosophy requires clarity and rigor of thought, imaginative flexibility and inventiveness. It also means learning to understand what others think and write, and being able to examine their arguments for weak spots and errors. This is an ability that carries over into your whole life. You’ll win more arguments, you’ll hear politician’s speeches in a whole new way, and you’ll have a real edge in the jobs market.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-03-26T21:59:38Z</created-at>
+    <updated-at type="datetime">2013-06-02T16:09:27Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>123456</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/philosophy_ba</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BA</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/ba</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Philosophy BA</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>On this degree programme you’ll meet the great minds of history on equal terms, not just learning what they thought, but engaging with them critically. Philosophy requires clarity and rigour of thought, imaginative flexibility and inventiveness.</summary>
+    <curriculum>
+      <id type="integer">52</id>
+      <course-id type="integer">5</course-id>
+      <course-version-id type="integer">69</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-02T16:09:27Z</created-at>
+      <updated-at type="datetime">2013-06-02T16:09:27Z</updated-at>
+      <versioned-course-id type="integer">5</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">12</id>
+    <name>Political Economy BA</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/politicaleconomyba</url>
+    <course-type nil="true"/>
+    <subject>Politics</subject>
+    <description>This degree provides you with a specialist social science understanding of such developments, while preparing you for life outside university. You will benefit from the reputation of our academic staff for internationally renowned research in the area of political economy, and our commitment to facilitating the highest quality learning environments.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-05-14T21:28:23Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:36:11Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0234</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>L150</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>3</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>ABB</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>52</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places>5</Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants>67</Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/politicaleconomyba</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BA</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/ba</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Political Economy BA</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>This degree provides you with a specialist social science understanding of such developments, while preparing you for life outside university. You will benefit from the reputation of our academic staff for internationally renowned research in the area of political economy, and our commitment to facilitating the highest quality learning environments.</summary>
+    <curriculum>
+      <id type="integer">72</id>
+      <course-id type="integer">12</course-id>
+      <course-version-id type="integer">89</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:36:11Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:36:11Z</updated-at>
+      <versioned-course-id type="integer">12</versioned-course-id>
+    </curriculum>
+  </course>
+  <course>
+    <id type="integer">14</id>
+    <name>Russian Studies with Central and East European Studies BA</name>
+    <education-level>Undergraduate</education-level>
+    <url>http://www.whiteside.ac.uk/russian_cees_ba</url>
+    <course-type nil="true"/>
+    <subject>Russian</subject>
+    <description>This is a Major/Minor degree with Major in Russian Studies (80 credits per year) and Minor in Central and East European Studies (making up one-third or 40 credits per year). Our aim is to provide you with the opportunity to develop an in-depth and wide-ranging understanding of Russia and Eastern and Central Europe, drawing on the cutting edge of research in these fields.</description>
+    <start-date type="timestamp">2013-10-01 00:00:00 UTC</start-date>
+    <created-at type="datetime">2013-05-19T19:40:27Z</created-at>
+    <updated-at type="datetime">2013-06-20T20:37:58Z</updated-at>
+    <fields>
+      <afa0d65e-aea0-468c-8b7d-175e01e0008e>
+        <KIS-Code>K0265</KIS-Code>
+      </afa0d65e-aea0-468c-8b7d-175e01e0008e>
+      <g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+        <UCAS-Code>R7R9</UCAS-Code>
+      </g7fb0ebf0-5b9a-45ef-a53e-072a1fcfd924>
+      <j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+        <Duration>4</Duration>
+      </j017fbfe5-a8f4-4733-acd1-046092acfdd1>
+      <xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+        <Typical-offer-A-level>ABB</Typical-offer-A-level>
+      </xd42f1821-516e-46dd-97e3-f6b5be0722f5>
+      <h38465150-55ab-4476-b805-404a7be18811>
+        <Typical-offer-IB>52</Typical-offer-IB>
+      </h38465150-55ab-4476-b805-404a7be18811>
+      <b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+        <Places></Places>
+      </b7d89c9ae-3200-4cd8-b6e4-6d91bba8cd05>
+      <i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+        <Applicants></Applicants>
+      </i7635767d-160a-4cfa-8af0-f1d341ebaec5>
+    </fields>
+    <course-definition-id type="integer">2</course-definition-id>
+    <identifier>http://www.whiteside.ac.uk/russian_cees_ba</identifier>
+    <language-of-instruction>en</language-of-instruction>
+    <qualification-title>BA</qualification-title>
+    <awarded-by>Whiteside College</awarded-by>
+    <qualification-identifier>http://www.whiteside.ac.uk/ba</qualification-identifier>
+    <study-mode type="integer">3</study-mode>
+    <attendance-mode type="integer">5</attendance-mode>
+    <attendance-pattern type="integer">1</attendance-pattern>
+    <title>Russian Studies with Central and East European Studies BA</title>
+    <abstract nil="true"/>
+    <venue-identifier nil="true"/>
+    <venue-title nil="true"/>
+    <venue-location-street nil="true"/>
+    <venue-location-town nil="true"/>
+    <venue-location-postcode nil="true"/>
+    <presentation-identifier nil="true"/>
+    <venue-location-email nil="true"/>
+    <venue-location-phone nil="true"/>
+    <summary>This is a Major/Minor degree with Major in Russian Studies (80 credits per year) and Minor in Central and East European Studies (making up one-third or 40 credits per year). Our aim is to provide you with the opportunity to develop an in-depth and wide-ranging understanding of Russia and Eastern and Central Europe, drawing on the cutting edge of research in these fields.</summary>
+    <curriculum>
+      <id type="integer">73</id>
+      <course-id type="integer">14</course-id>
+      <course-version-id type="integer">90</course-version-id>
+      <major-time-unit>Year</major-time-unit>
+      <major-time-unit-amount type="integer">3</major-time-unit-amount>
+      <minor-time-unit>Semester</minor-time-unit>
+      <minor-time-unit-amount type="integer">2</minor-time-unit-amount>
+      <created-at type="datetime">2013-06-20T20:37:58Z</created-at>
+      <updated-at type="datetime">2013-06-20T20:37:58Z</updated-at>
+      <versioned-course-id type="integer">14</versioned-course-id>
+    </curriculum>
+  </course>
+</courses>
